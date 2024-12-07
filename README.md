@@ -1,2 +1,2 @@
-# kittythemes
-Custom themes for Kitty terminal
+# mk7-kitty-themes
+My custom Kitty terminal themes
